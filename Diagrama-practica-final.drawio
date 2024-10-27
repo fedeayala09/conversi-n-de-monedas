@@ -1,0 +1,98 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.2">
+  <diagram name="Página-1" id="LudiQ6e_Ix4aZCBxG2ot">
+    <mxGraphModel dx="1857" dy="1048" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g837-kRTbOAzSNMUnXDD-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g837-kRTbOAzSNMUnXDD-1" target="g837-kRTbOAzSNMUnXDD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-1" value="inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g837-kRTbOAzSNMUnXDD-2" target="g837-kRTbOAzSNMUnXDD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-2" value="&lt;div&gt;Definir Tipo Cambio EUR a MXN = 23.70&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; definir&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Tipo Cambio&amp;nbsp;&lt;/span&gt;MXN&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;a EUR&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;= 20.75&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g837-kRTbOAzSNMUnXDD-4" target="g837-kRTbOAzSNMUnXDD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-4" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; Mostrar mensaje: &quot;Ingresar la moneda origen para la conversion (EUR/USD): &quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#87581B;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="440" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g837-kRTbOAzSNMUnXDD-8" target="g837-kRTbOAzSNMUnXDD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-8" value="&lt;div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Mostrar mensaje: &quot;Ingrese el monton a convertir: &quot;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#87581B;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g837-kRTbOAzSNMUnXDD-10" target="g837-kRTbOAzSNMUnXDD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g837-kRTbOAzSNMUnXDD-10" target="g837-kRTbOAzSNMUnXDD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-10" value="Tipo de Conversión es EUR" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#88E884;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="890" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g837-kRTbOAzSNMUnXDD-12" target="g837-kRTbOAzSNMUnXDD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-12" value="&lt;div&gt;Calcular resultado = monto a convertir * tipo cambio EUR a MXN&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="530" y="900" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g837-kRTbOAzSNMUnXDD-14" target="g837-kRTbOAzSNMUnXDD-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1300" y="1000" />
+              <mxPoint x="1300" y="1780" />
+              <mxPoint x="330" y="1780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-14" value="&lt;div&gt;mostrar &quot;El resultado de la conversión de EUR a MXN es: &quot;, resultado&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#87581B;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="830" y="910" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g837-kRTbOAzSNMUnXDD-17" target="g837-kRTbOAzSNMUnXDD-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g837-kRTbOAzSNMUnXDD-17" target="g837-kRTbOAzSNMUnXDD-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-17" value="Tipo de Conversión es USD" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#88E884;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1169" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g837-kRTbOAzSNMUnXDD-19" target="g837-kRTbOAzSNMUnXDD-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-19" value="&lt;div&gt;Calcular resultado = monto a convertir * tipo cambio USD a MXN&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="530" y="1179" width="240" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="g837-kRTbOAzSNMUnXDD-20" target="g837-kRTbOAzSNMUnXDD-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="1750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1220" y="1279" />
+              <mxPoint x="1220" y="1750" />
+              <mxPoint x="330" y="1750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-20" value="&lt;div&gt;mostrar &quot;El resultado de la conversión de EUR a MXN es: &quot;, resultado&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#87581B;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="830" y="1189" width="280" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="g837-kRTbOAzSNMUnXDD-22" target="g837-kRTbOAzSNMUnXDD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-22" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Mostrar: &quot;No está permitido este tipo de conversión actualmente&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#87581B;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1480" width="260" height="198" as="geometry" />
+        </mxCell>
+        <mxCell id="g837-kRTbOAzSNMUnXDD-24" value="Fin" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1817" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
